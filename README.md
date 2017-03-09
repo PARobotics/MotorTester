@@ -22,11 +22,11 @@ Plug a motor into the motor controller on the side of the test bench, turn the b
 
 Since this is basically a blank cortex, this test bench is perfect for experimenting with sensors, checking their values, and seeing if they are working properly.
 
-1) Plug the sensor into the proper port
-2) Go into RobotC, config that sensor in "Motor and Sensor Setup".
-3) Download this code to the robot.
-4) In RobotC: Robot > Open Debugger Manually and then Robot > Debugger Windows > Sensors
-5) Use this panel to monitor sensor values and check if they work.
+1) Plug the sensor into the proper port  
+2) Go into RobotC, config that sensor in "Motor and Sensor Setup".  
+3) Download this code to the robot.  
+4) In RobotC: Robot > Open Debugger Manually and then Robot > Debugger Windows > Sensors  
+5) Use this panel to monitor sensor values and check if they work.  
 
 ## Protocol
 
