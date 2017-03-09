@@ -4,7 +4,13 @@ This project houses the code for the Motor Tester test bench. The purpose of the
 
 ## Installation
 
-TODO: Describe the installation process
+Download the code to your computer (Windows Only) before working with the test bench, or use the desktop provided in the robotics room. 
+
+(In an empty folder) 
+
+1) git clone https://github.com/PARobotics/MotorTester.git .
+
+You're good!
 
 ## Usage
 
