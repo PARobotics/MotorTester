@@ -4,7 +4,10 @@ This project houses the code for the Motor Tester test bench. The purpose of the
 
 ## Installation
 
-TODO: Describe the installation process
+In a new folder:
+~~~~
+> git clone https://github.com/PARobotics/MotorTester.git
+~~~~
 
 ## Usage
 
